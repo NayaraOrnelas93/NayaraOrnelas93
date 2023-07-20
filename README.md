@@ -27,7 +27,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![ Arduino ]( https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white )
 
-## 🗂️ O que você encontra no meu Github 🗂️
+## 🗂️ O que você encontra no meu GitHub 🗂️
 
 📑️ Meus trabalhos da faculdade
 
