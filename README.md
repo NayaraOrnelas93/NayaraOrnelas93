@@ -27,8 +27,6 @@
 ![ Python ]( https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white )
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-FFC500?style=for-the-badge&logo=mysql&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![ Arduino ]( https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white )
 ![image](https://github.com/NayaraOrnelas93/NayaraOrnelas93/assets/139923726/5cf710dc-3d15-482e-b6d7-8fa934c32428)
 
