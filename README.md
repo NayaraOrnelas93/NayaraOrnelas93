@@ -14,7 +14,7 @@
 
 </p>
 
-## 🗂️ O que você encontra no meu GitHub 🗂️
+##  O que você encontra no meu GitHub 
 
 📑️ Meus trabalhos da faculdade
 
