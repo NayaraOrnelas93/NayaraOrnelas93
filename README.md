@@ -30,7 +30,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-FFC500?style=for-the-badge&logo=mysql&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![ Arduino ]( https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white )
-![image](https://github.com/NayaraOrnelas93/NayaraOrnelas93/assets/139923726/ef5cbc10-9c14-4958-9108-f258f3fc563c)
-
+![image](https://github.com/NayaraOrnelas93/NayaraOrnelas93/assets/139923726/5cf710dc-3d15-482e-b6d7-8fa934c32428)
 
 
